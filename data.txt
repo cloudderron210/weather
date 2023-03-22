@@ -1,0 +1,1 @@
+{'latitude': 56.5, 'longitude': 33.4375, 'generationtime_ms': 0.9739398956298828, 'utc_offset_seconds': 10800, 'timezone': 'Europe/Moscow', 'timezone_abbreviation': 'MSK', 'elevation': 269.0, 'current_weather': {'temperature': 4.2, 'windspeed': 19.1, 'winddirection': 191.0, 'weathercode': 3, 'time': '2023-03-14T18:00'}}
